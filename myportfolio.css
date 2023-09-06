@@ -9,7 +9,7 @@
 body {
     /* width: 100vw; */
     box-sizing: border-box;
-    background-image: url(/background123.jpg);
+    background-image: url(./background123.jpg);
     color: rgb(255, 255, 255);
     overflow-x: hidden;
 }
